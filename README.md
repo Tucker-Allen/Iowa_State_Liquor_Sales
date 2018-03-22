@@ -23,20 +23,21 @@ See blog post here: https://tucker-allen.github.io/iowa_liquor_blog/
 
 # Datasets:
 iowa-zip-city-county:
-	This dataset was circulated courtesy of Corey Girard (DSI+/3/NYC)
+	This dataset was circulated courtesy of Corey Girard (DSI+/3/NYC), and relates Iowa City/Zip Code/County
 
 iowa_pop.csv:
-	This city population dataset was taken from
+	This city population dataset was taken from:
 	https://en.wikipedia.org/wiki/List_of_largest_Iowa_cities_by_population
 
 iowa_test.csv:
 	This dataset is a 10% sample of iowa_full.csv
 
 iowa_full.csv:
-	This dataset was provided by GA for the purpose of the project
+	This dataset is made available by the state of Iowa here:
+  https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy
 
 iowa_pop_clean.csv
-	This file was created within starter-code.ipynb in case I wanted to export a useful population 
+	This file was created within code_10percent_dataset.ipynb for circulation
 
 -----------------------
 
