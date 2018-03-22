@@ -21,7 +21,7 @@ See blog post here: https://tucker-allen.github.io/iowa_liquor_blog/
 
 ---------------------------
 
-# Datasets:
+### Datasets:
 iowa-zip-city-county:
 	This dataset was circulated courtesy of Corey Girard (DSI+/3/NYC), and relates Iowa City/Zip Code/County
 
@@ -41,5 +41,5 @@ iowa_pop_clean.csv
 
 -----------------------
 
-# Summary:
+## Summary:
 A Linear Regression model, with and without Ridge Regression regularization, was explored in order to best predict total Annual Sales for 2016 at Iowa State Liquor Stores. The Ridge Regression model yielded a test score of 0.987, indicating that the model describes a significant amount of the variance in the training/test data, so we can reasonably rely on its predictions of 2016 Annual Sales. 2016 Annual sales were predicted to be $289,740,820, which is a slight increase of 1.9% over the previous year in 2015.
